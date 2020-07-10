@@ -1,7 +1,7 @@
 ### Hi there, My self Prasanna Kumar👋
 
 
-# A Data Scientist Enthusiast 🚀 
+# An Aspiring Data Scientist 🚀 
 
 ## About Me 🤷🏻‍♂️
 
