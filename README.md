@@ -1,4 +1,4 @@
-[]### Hi there, My self Prasanna Kumar👋
+### Hi there, My self Prasanna Kumar👋
 
 
 # A Data Scientist Enthusiast 🚀 
