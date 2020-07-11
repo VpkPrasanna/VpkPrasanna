@@ -9,6 +9,10 @@
 
 * 🐶 love to work in Python
 
+* 🚀 Dean of [@School of AI-Chennai](https://github.com/SoaiChennai)
+
+
+
 
 <!-- * 🤓 UI/UX Designer
 
@@ -20,7 +24,6 @@
 
 * 📝 Open Source Contributor -->
 
-* 🚀 Love towards Rocket Science Never ends
 
 ## 
 
