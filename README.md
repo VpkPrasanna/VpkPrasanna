@@ -11,8 +11,7 @@
 
 * 🚀 Dean of [@School of AI-Chennai](https://github.com/SoaiChennai)
 
-
-
+* 🐶 To read my [blogs](https://vpkprasanna.blogspot.com/)
 
 <!-- * 🤓 UI/UX Designer
 
