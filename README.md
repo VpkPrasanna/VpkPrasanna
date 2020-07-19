@@ -9,9 +9,9 @@
 
 * 🐶 love to work in Python
 
-* 🚀 Dean of [@School of AI-Chennai](https://github.com/SoaiChennai)
+* 🚀 Dean of [@School of AI-Chennai](https://github.com/SoaiChennai){:target="_blank"}
 
-* 🐶 To read my [blogs](https://vpkprasanna.blogspot.com/)
+* 🐶 To read my [Blogs](https://vpkprasanna.blogspot.com/){:target="_blank"}
 
 <!-- * 🤓 UI/UX Designer
 
