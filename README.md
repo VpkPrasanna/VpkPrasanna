@@ -43,3 +43,7 @@
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{vpkprasanna}/discussion) -->
 
 
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/vpkprasanna/competition/light" />
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/vpkprasanna/dataset/light" />
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/vpkprasanna/notebook/light" />
+<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/vpkprasanna/discussion/light" />
