@@ -36,3 +36,10 @@
 [![Dev.to](https://img.shields.io/badge/Dev.to-black.svg?style=for-the-badge&logo=dev)](https://dev.to/sanjay_spikey) -->
 
 
+
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{vpkprasanna}/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{vpkprasanna}/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{vpkprasanna}/discussion)
+
+
