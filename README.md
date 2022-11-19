@@ -42,8 +42,17 @@
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{vpkprasanna}/notebook)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{vpkprasanna}/discussion) -->
 
+<p align="center">
 
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/vpkprasanna/competition/light" />
+  <br/>
+  <p align="center">🥇My Kaggle Tier & Medals 🥇</p>
+ 
+</p>
+
+<p align="center">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/vpkprasanna/competition/light" />
 <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/vpkprasanna/dataset/light" />
 <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/vpkprasanna/notebook/light" />
 <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/vpkprasanna/discussion/light" />
+</p>
+
