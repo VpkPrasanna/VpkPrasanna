@@ -35,6 +35,9 @@
 <!-- [![Dribbble](https://img.shields.io/badge/Dribbble-pink.svg?style=for-the-badge&logo=dribbble)](https://dribbble.com/spikeysanju)
 [![Dev.to](https://img.shields.io/badge/Dev.to-black.svg?style=for-the-badge&logo=dev)](https://dev.to/sanjay_spikey) -->
 
+## 📝 Open-Source Contributions
+- Fixed an documentation on [HuggingFace 🤗 transformers dataset](https://huggingface.co/docs/datasets/index) Broken link for method flatten in datasets - **[[PR](https://github.com/huggingface/transformers/pull/27560)]**
+- Fixed an broken links datasets on [HuggingFace 🤗 transformers dataset](https://huggingface.co/docs/datasets/index) Broken link for method flatten in datasets - **[[PR](https://github.com/huggingface/transformers/pull/27569)]**
 
 <!-- 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition)
