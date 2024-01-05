@@ -39,6 +39,7 @@
 - Fixed an documentation on [HuggingFace 🤗 transformers dataset](https://huggingface.co/docs/datasets/index) Broken link for method flatten in datasets - **[[PR](https://github.com/huggingface/transformers/pull/27560)]**
 - Fixed an broken links datasets on [HuggingFace 🤗 transformers dataset](https://huggingface.co/docs/datasets/index) Broken link for method flatten in datasets - **[[PR](https://github.com/huggingface/transformers/pull/27569)]** 
 - Fixed an documentation issue on [Huggingface task page](https://huggingface.co/tasks/table-question-answering)- [PR](https://github.com/huggingface/huggingface.js/pull/418)
+- Fixed an docs issue in langchain docs [Langchain OPEN AI EMBEDDINGS](https://python.langchain.com/docs/integrations/text_embedding/openai) - [PR](https://github.com/langchain-ai/langchain/pull/15533)
 
 <!-- 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition)
